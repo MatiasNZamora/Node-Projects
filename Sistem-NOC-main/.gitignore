@@ -1,0 +1,9 @@
+node_modules/
+dist/
+logs/*
+.env
+postgres/
+mongo/
+postgres-test/
+mongo-test/
+
